@@ -1,10 +1,11 @@
 # Hi, I'm Marseal 👋
 
-I am pursuing a Bachelor's degree in Informatics Engineering at Pamulang University. I'm passionate about software development, and web programming. In my free time, I enjoy expanding my knowledge by learning on platforms, course online, and social media.
+I am pursuing a Bachelor's degree in Informatics Engineering at Pamulang University. I'm passionate about software development, App Development and web programming. In my free time, I enjoy expanding my knowledge by learning on platforms, course online, and social media.
 
 ## Interests 
 
 - 💻 Software Development
+- 📱 App Development
 - 🌐 Web Programming
 - 📚 Learning New Things
 
