@@ -2,7 +2,7 @@
 
 I am pursuing a Bachelor's degree in Informatics Engineering at Pamulang University. I'm passionate about software development, and web programming. In my free time, I enjoy expanding my knowledge by learning on platforms, course online, and social media.
 
-## Interests and Expertise
+## Interests 
 
 - 💻 Software Development
 - 🌐 Web Programming
