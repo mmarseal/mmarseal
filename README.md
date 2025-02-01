@@ -1,4 +1,4 @@
-# Hi, I'm Marseal 👋
+# Hi, I'm Muhamad Marseal 👋
 
 I am pursuing a Bachelor's degree in Informatics Engineering at Pamulang University. I'm passionate about software development, App Development and web programming. In my free time, I enjoy expanding my knowledge by learning on platforms, course online, and social media.
 
