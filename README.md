@@ -1,24 +1,7 @@
 # Hi, I'm Muhamad Marseal 👋
 
-I am pursuing a Bachelor's degree in Informatics Engineering at Pamulang University. I'm passionate about software development, App Development and web programming. In my free time, I enjoy expanding my knowledge by learning on platforms, course online, and social media.
+A passionate and enthusiastic Computer Science student specializing in Fullstack development, on a mission to create impactful digital solutions, Driven by the belief that technology should solve real-world problems.
 
-## Interests 
-
-- 💻 Software Development
-- 📱 App Development
-- 🌐 Web Programming
-- 📚 Learning New Things
-
-## Recent Projects 
-
-I'm always excited to learn and contribute to various open-source projects. Some projects I'm currently working on include:
-
-## Contact Me
-
-If you'd like to discuss technology, share experiences, or collaborate on projects, feel free to reach out to me. I'm always open to collaboration.
-
-📧 [Gmail](mailto:mpurwosyahputra@gmail.com) <br>
-🌐 [LinkedIn](https://www.linkedin.com/in/muhamad-marseal/)
 
 ## Github Statistic
 <p align="left">
