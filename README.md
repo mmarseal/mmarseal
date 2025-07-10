@@ -10,3 +10,9 @@ A passionate and enthusiastic Computer Science student specializing in Fullstack
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mmarseal&layout=compact&layout=compact&theme=algolia"/>
 </a>
 </p>
+
+<div align="center">
+  <a href="https://github.com/mmarseal">
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmarseal&layout=compact&langs_count=20"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=mmarseal&rank_icon=github"/>
+</div>
