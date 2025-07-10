@@ -9,3 +9,11 @@ A passionate and enthusiastic Computer Science student specializing in Fullstack
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmarseal&layout=compact&langs_count=20"/>
   <img height="250em" src="https://github-readme-stats.vercel.app/api?username=mmarseal&rank_icon=github"/>
 </div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stevenaruu/stevenaruu/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stevenaruu/stevenaruu/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/stevenaruu/stevenaruu/output/github-contribution-grid-snake.svg">
+  </picture>
+<div/>
